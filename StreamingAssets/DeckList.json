@@ -1,0 +1,884 @@
+{
+  "cards": [
+    {
+      "Name": "Lav Kurtçuğu",
+      "ManaCost": 1,
+      "Attack": 1,
+      "Health": 2,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "Her tur başında rakip kahramana 1 hasar verir."
+    },
+    {
+      "Name": "Ateş Elemental",
+      "ManaCost": 3,
+      "Attack": 3,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "Bu yaratık saldırdığında rastgele bir düşman yaratığa 1 hasar verir."
+    },
+    {
+      "Name": "Alev Şövalyesi",
+      "ManaCost": 4,
+      "Attack": 4,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "Bu yaratık saldırdığında kendisine 1 hasar verir."
+    },
+    {
+      "Name": "Kızıl Ejder Yavrusu",
+      "ManaCost": 2,
+      "Attack": 2,
+      "Health": 1,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "Öldüğünde 1 mana kristali verir."
+    },
+    {
+      "Name": "Ateş Ruhlu Şaman",
+      "ManaCost": 3,
+      "Attack": 2,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Uncommon",
+      "AbilityText": "Oyuna girdiğinde rastgele bir Ateş büyü kartı çeker."
+    },
+    {
+      "Name": "Kor Yürekli Savaşçı",
+      "ManaCost": 4,
+      "Attack": 3,
+      "Health": 5,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Uncommon",
+      "AbilityText": "Bu yaratık öldüğünde tüm dost yaratıklara +1 saldırı verir."
+    },
+    {
+      "Name": "Magma Yutucusu",
+      "ManaCost": 5,
+      "Attack": 5,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Uncommon",
+      "AbilityText": "Her hasar aldığında rakip kahramana 2 hasar verir."
+    },
+    {
+      "Name": "Kül Hayaleti",
+      "ManaCost": 1,
+      "Attack": 1,
+      "Health": 1,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Rare",
+      "AbilityText": "Hayalet: Sadece büyüler ve yeteneklerle hedef alınabilir."
+    },
+    {
+      "Name": "Ateş Feneri",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Rare",
+      "AbilityText": "Taunt: Rakipler bu yaratığa saldırmak zorundadır. Her tur başında rastgele bir dost yaratığa +1/+1 verir."
+    },
+    {
+      "Name": "Volkan Devi",
+      "ManaCost": 6,
+      "Attack": 6,
+      "Health": 6,
+      "CardType": "Creature",
+      "ElementType": "Fire",
+      "RarityType": "Epic",
+      "AbilityText": "Oyuna girdiğinde tüm düşman yaratıklara 3 hasar verir."
+    },
+    {
+      "Name": "Buz Yeti",
+      "ManaCost": 5,
+      "Attack": 4,
+      "Health": 5,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "Donmuş düşman yaratıklara karşı +2 saldırı."
+    },
+    {
+      "Name": "Kar Kurtları",
+      "ManaCost": 3,
+      "Attack": 3,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "Bu yaratık saldırdığında saldırdığı yaratığı 1 tur dondurur."
+    },
+    {
+      "Name": "Donmuş Golem",
+      "ManaCost": 4,
+      "Attack": 2,
+      "Health": 7,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "Taunt: Rakipler bu yaratığa saldırmak zorundadır."
+    },
+    {
+      "Name": "Buzul Büyücüsü",
+      "ManaCost": 2,
+      "Attack": 2,
+      "Health": 2,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "Oyuna girdiğinde 1 düşman yaratığı 1 tur boyunca dondurur."
+    },
+    {
+      "Name": "Donmuş Muhafız",
+      "ManaCost": 3,
+      "Attack": 1,
+      "Health": 5,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Uncommon",
+      "AbilityText": "Taunt: Rakipler bu yaratığa saldırmak zorundadır. Her tur başında 1 zırh kazanır."
+    },
+    {
+      "Name": "Kar Leoparı",
+      "ManaCost": 2,
+      "Attack": 3,
+      "Health": 2,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Uncommon",
+      "AbilityText": "Hızlı saldırı: Bu yaratık saldırdığında ilk olarak vurur."
+    },
+    {
+      "Name": "Ayaz Zombisi",
+      "ManaCost": 4,
+      "Attack": 3,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Uncommon",
+      "AbilityText": "Öldüğünde rastgele bir düşman yaratığını 1 tur dondurur."
+    },
+    {
+      "Name": "Kırağı Nymphası",
+      "ManaCost": 1,
+      "Attack": 1,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Rare",
+      "AbilityText": "Bu yaratık saldırdığında rastgele bir dost yaratığa +1/+1 verir."
+    },
+    {
+      "Name": "Buz Kraliçesi",
+      "ManaCost": 6,
+      "Attack": 5,
+      "Health": 5,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Rare",
+      "AbilityText": "Oyuna girdiğinde tüm dost yaratıklara donma bağışıklığı verir."
+    },
+    {
+      "Name": "Buz Ejderi",
+      "ManaCost": 7,
+      "Attack": 7,
+      "Health": 7,
+      "CardType": "Creature",
+      "ElementType": "Ice",
+      "RarityType": "Epic",
+      "AbilityText": "Oyuna girdiğinde 3 düşman yaratığını 1 tur dondurur."
+    },
+    {
+      "Name": "Diken Elf",
+      "ManaCost": 2,
+      "Attack": 2,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "Bu yaratık saldırdığında saldırdığı yaratığa 1 zehir hasarı verir."
+    },
+    {
+      "Name": "Yaşayan Ağaç",
+      "ManaCost": 5,
+      "Attack": 2,
+      "Health": 8,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "Taunt: Rakipler bu yaratığa saldırmak zorundadır. Her tur başında 2 sağlık iyileştirir."
+    },
+    {
+      "Name": "Zehirli Mantar",
+      "ManaCost": 1,
+      "Attack": 1,
+      "Health": 1,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "Zehirli: Bu yaratık bir yaratığa saldırdığında o yaratığı öldürür."
+    },
+    {
+      "Name": "Orman Perisi",
+      "ManaCost": 3,
+      "Attack": 3,
+      "Health": 2,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "Uçuş: Sadece uçan yaratıklar tarafından hedef alınabilir."
+    },
+    {
+      "Name": "Yosun Kaplı Golem",
+      "ManaCost": 3,
+      "Attack": 2,
+      "Health": 5,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Uncommon",
+      "AbilityText": "Her tur başında 1 sağlık iyileştirir."
+    },
+    {
+      "Name": "Dikenli Sürüngen",
+      "ManaCost": 2,
+      "Attack": 1,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Uncommon",
+      "AbilityText": "Bu yaratık saldırıya uğradığında saldıran yaratığa 2 hasar verir."
+    },
+    {
+      "Name": "Ağaç Çobanı",
+      "ManaCost": 4,
+      "Attack": 3,
+      "Health": 5,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Uncommon",
+      "AbilityText": "Oyuna girdiğinde tüm dost doğa yaratıklarına +1/+1 verir."
+    },
+    {
+      "Name": "Çiçek Elemental",
+      "ManaCost": 4,
+      "Attack": 3,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Rare",
+      "AbilityText": "Oyuna girdiğinde rastgele bir dost yaratığa 3 sağlık iyileştirir."
+    },
+    {
+      "Name": "Doğa Koruyucusu",
+      "ManaCost": 5,
+      "Attack": 4,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Rare",
+      "AbilityText": "Öldüğünde rastgele bir doğa yaratığını elinize geri döner."
+    },
+    {
+      "Name": "Dev Asma",
+      "ManaCost": 6,
+      "Attack": 5,
+      "Health": 6,
+      "CardType": "Creature",
+      "ElementType": "Nature",
+      "RarityType": "Epic",
+      "AbilityText": "Her tur başında 2 sağlık iyileştirir ve 1 bitki çağırır."
+    },
+    {
+      "Name": "Gezgin Şövalye",
+      "ManaCost": 3,
+      "Attack": 3,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "Her tur başında 1 rastgele dost yaratığa +1 saldırı verir."
+    },
+    {
+      "Name": "Barbar Savaşçı",
+      "ManaCost": 2,
+      "Attack": 2,
+      "Health": 2,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "İlk saldırısında +2 saldırı."
+    },
+    {
+      "Name": "Mistik Şifacı",
+      "ManaCost": 3,
+      "Attack": 2,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "Her tur başında dost kahramana 2 sağlık iyileştirir."
+    },
+    {
+      "Name": "Korkusuz Kaşif",
+      "ManaCost": 2,
+      "Attack": 2,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "Oyuna girdiğinde bir kart çeker."
+    },
+    {
+      "Name": "Vahşi Hayvan Terbiyecisi",
+      "ManaCost": 3,
+      "Attack": 2,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Uncommon",
+      "AbilityText": "Oyuna girdiğinde bir 1/1 hayvan çağırır."
+    },
+    {
+      "Name": "Çılgın Bilim İnsanı",
+      "ManaCost": 4,
+      "Attack": 3,
+      "Health": 3,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Uncommon",
+      "AbilityText": "Oyuna girdiğinde rastgele bir yaratığı 2 mana maliyetine kadar değiştirir."
+    },
+    {
+      "Name": "Mekanik Golem",
+      "ManaCost": 4,
+      "Attack": 3,
+      "Health": 6,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Uncommon",
+      "AbilityText": "Taunt: Rakipler bu yaratığa saldırmak zorundadır."
+    },
+    {
+      "Name": "Kara Büyücü",
+      "ManaCost": 5,
+      "Attack": 4,
+      "Health": 4,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Rare",
+      "AbilityText": "Oyuna girdiğinde rakibin elinden rastgele bir kart çal."
+    },
+    {
+      "Name": "Kara Şövalye",
+      "ManaCost": 6,
+      "Attack": 5,
+      "Health": 5,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Rare",
+      "AbilityText": "Oyuna girdiğinde bir düşman yaratığını yok eder."
+    },
+    {
+      "Name": "Peri Kraliçesi",
+      "ManaCost": 7,
+      "Attack": 6,
+      "Health": 6,
+      "CardType": "Creature",
+      "ElementType": "Neutral",
+      "RarityType": "Epic",
+      "AbilityText": "Her tur başında rastgele bir dost yaratığa +1/+1 verir."
+    },
+    {
+      "Name": "Alev Topu",
+      "ManaCost": 3,
+      "Attack": 4,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "4 hasar ver."
+    },
+    {
+      "Name": "Yanma",
+      "ManaCost": 1,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "2 tur boyunca 1 hasar ver."
+    },
+    {
+      "Name": "Kızıl Öfke",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "Bir yaratığa +3 saldırı ver."
+    },
+    {
+      "Name": "Ateş Duvarı",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "3 tur boyunca Taunt sağla."
+    },
+    {
+      "Name": "Kızgın Zincir",
+      "ManaCost": 4,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Fire",
+      "RarityType": "Uncommon",
+      "AbilityText": "3 düşmana 2'şer hasar ver."
+    },
+    {
+      "Name": "Ateş Fırtınası",
+      "ManaCost": 5,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Fire",
+      "RarityType": "Uncommon",
+      "AbilityText": "Rastgele 5 kez 1 hasar ver."
+    },
+    {
+      "Name": "Volkanik Patlama",
+      "ManaCost": 6,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Fire",
+      "RarityType": "Rare",
+      "AbilityText": "Tüm düşmanlara 4 hasar ver."
+    },
+    {
+      "Name": "Buz Bariyeri",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "Bir yaratığı dondur."
+    },
+    {
+      "Name": "Dondurucu Nefes",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "3 hasar ver ve hedefi dondur."
+    },
+    {
+      "Name": "Buz Zırhı",
+      "ManaCost": 1,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "Bir yaratığa +0/+2 ver."
+    },
+    {
+      "Name": "Dondurucu Oku",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "2 hasar ver ve yavaşlat."
+    },
+    {
+      "Name": "Kar Fırtınası",
+      "ManaCost": 5,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Ice",
+      "RarityType": "Uncommon",
+      "AbilityText": "Tüm düşman yaratıkları dondur."
+    },
+    {
+      "Name": "Buz Prizması",
+      "ManaCost": 4,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Ice",
+      "RarityType": "Uncommon",
+      "AbilityText": "2 kart çek."
+    },
+    {
+      "Name": "Ayaz Patlaması",
+      "ManaCost": 6,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Ice",
+      "RarityType": "Rare",
+      "AbilityText": "Tüm donmuş düşmanlara 3 hasar ver."
+    },
+    {
+      "Name": "Yenilenme",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "4 can iyileştir."
+    },
+    {
+      "Name": "Zehirli Sarmaşık",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "Bir düşmanı zehirle."
+    },
+    {
+      "Name": "Hızlı Büyüme",
+      "ManaCost": 1,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "Bir yaratığa +1/+1 ver."
+    },
+    {
+      "Name": "Doğal Kalkan",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "Bir yaratığa Kalkan ver."
+    },
+    {
+      "Name": "Zehirli Spor",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Nature",
+      "RarityType": "Uncommon",
+      "AbilityText": "Rastgele 3 düşmanı zehirle."
+    },
+    {
+      "Name": "Orman Çağrısı",
+      "ManaCost": 4,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Nature",
+      "RarityType": "Uncommon",
+      "AbilityText": "2 adet 2/2 Ağaç Çağır."
+    },
+    {
+      "Name": "Doğanın Öfkesi",
+      "ManaCost": 5,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Nature",
+      "RarityType": "Rare",
+      "AbilityText": "Tüm düşmanlara 2 hasar ver ve kendi yaratıklarına +1/+1 ver."
+    },
+    {
+      "Name": "Gizli Taktik",
+      "ManaCost": 1,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "Bir kart çek."
+    },
+    {
+      "Name": "Yıldırım Çarpması",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "3 hasar ver."
+    },
+    {
+      "Name": "Güç Aktarımı",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "Bir yaratığın gücünü başka birine aktar."
+    },
+    {
+      "Name": "Zırh Kırıcı",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "Bir yaratığın zırhını yok et."
+    },
+    {
+      "Name": "Ruh Çalma",
+      "ManaCost": 4,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Neutral",
+      "RarityType": "Uncommon",
+      "AbilityText": "Rakibin elinden rastgele bir kart çal."
+    },
+    {
+      "Name": "Kader Değiştirme",
+      "ManaCost": 5,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Neutral",
+      "RarityType": "Uncommon",
+      "AbilityText": "Bir yaratığı kontrol et."
+    },
+    {
+      "Name": "Kitle İmhası",
+      "ManaCost": 8,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Spell",
+      "ElementType": "Neutral",
+      "RarityType": "Rare",
+      "AbilityText": "Tüm yaratıkları yok et."
+    },
+    {
+      "Name": "Lav Kılıcı",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "+2 saldırı."
+    },
+    {
+      "Name": "Ateş Zırhı",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Fire",
+      "RarityType": "Common",
+      "AbilityText": "+0/+3 ve Yanma bağışıklığı."
+    },
+    {
+      "Name": "Kor Eldivenleri",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Fire",
+      "RarityType": "Uncommon",
+      "AbilityText": "+1/+1 ve Hızlı Saldırı."
+    },
+    {
+      "Name": "Volkanik Amulet",
+      "ManaCost": 4,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Fire",
+      "RarityType": "Uncommon",
+      "AbilityText": "Her tur başı 1 hasar ver."
+    },
+    {
+      "Name": "Ateş Tacı",
+      "ManaCost": 5,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Fire",
+      "RarityType": "Rare",
+      "AbilityText": "Büyü hasarını 1 arttır."
+    },
+    {
+      "Name": "Buz Kalkanı",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "+0/+4 ve Donma bağışıklığı."
+    },
+    {
+      "Name": "Donmuş Miğfer",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Ice",
+      "RarityType": "Common",
+      "AbilityText": "+0/+2 ve Taunt."
+    },
+    {
+      "Name": "Buz Asası",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Ice",
+      "RarityType": "Uncommon",
+      "AbilityText": "+1 saldırı ve Yavaşlatma yeteneği."
+    },
+    {
+      "Name": "Ayaz Pelerini",
+      "ManaCost": 4,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Ice",
+      "RarityType": "Uncommon",
+      "AbilityText": "Rakip büyülerinden korur."
+    },
+    {
+      "Name": "Kar Kristali",
+      "ManaCost": 5,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Ice",
+      "RarityType": "Rare",
+      "AbilityText": "Her tur başı 1 mana kazan."
+    },
+    {
+      "Name": "Yaşam Asası",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "+1/+1 ve Her tur başı 1 can iyileştir."
+    },
+    {
+      "Name": "Dikenli Zırh",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Nature",
+      "RarityType": "Common",
+      "AbilityText": "+1/+3 ve saldırana 1 hasar verir."
+    },
+    {
+      "Name": "Zehirli Hançer",
+      "ManaCost": 2,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Nature",
+      "RarityType": "Uncommon",
+      "AbilityText": "+2 saldırı ve Zehirleme yeteneği."
+    },
+    {
+      "Name": "Druid Pelerini",
+      "ManaCost": 4,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Nature",
+      "RarityType": "Uncommon",
+      "AbilityText": "+0/+2 ve Büyü Bağışıklığı."
+    },
+    {
+      "Name": "Doğa Kolyesi",
+      "ManaCost": 5,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Nature",
+      "RarityType": "Rare",
+      "AbilityText": "Çağrılan yaratıklara +1/+1 verir."
+    },
+    {
+      "Name": "Şans Madalyonu",
+      "ManaCost": 1,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "Her tur başı %50 ihtimalle 1 kart çek."
+    },
+    {
+      "Name": "Kahraman Kılıcı",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Neutral",
+      "RarityType": "Common",
+      "AbilityText": "+3/+0."
+    },
+    {
+      "Name": "Hız Çizmeleri",
+      "ManaCost": 3,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Neutral",
+      "RarityType": "Uncommon",
+      "AbilityText": "Hücum yeteneği verir."
+    },
+    {
+      "Name": "Çelik Zırh",
+      "ManaCost": 4,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Neutral",
+      "RarityType": "Uncommon",
+      "AbilityText": "+0/+5."
+    },
+    {
+      "Name": "Bilgelik Kitabı",
+      "ManaCost": 5,
+      "Attack": 0,
+      "Health": 0,
+      "CardType": "Equipment",
+      "ElementType": "Neutral",
+      "RarityType": "Rare",
+      "AbilityText": "Elde tutulan kartların maliyetini 1 azaltır."
+    }
+  ]
+}
